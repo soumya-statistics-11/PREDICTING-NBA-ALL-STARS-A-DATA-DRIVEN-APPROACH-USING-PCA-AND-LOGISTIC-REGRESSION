@@ -1,12 +1,12 @@
 # PREDICTING-NBA-ALL-STARS-A-DATA-DRIVEN-APPROACH-USING-PCA-AND-LOGISTIC-REGRESSION
-(Final year dissertation project
+(Final year dissertation project)
 
 
 Dissertation Title:
 Predicting NBA All-Stars : A data driven approach using PCA and Logistic Regression
 
 
-Submitted by:
+by:
 Soumya Karmakar
 B.Sc. Statistics (Honours)
 
@@ -17,12 +17,11 @@ Dr. Ayan Chandra
 Member Secretary,
 Academic Council ,
 St. Xavier’s College (Autonomous), Kolkata
-
 and Associate Professor , Department of Statistics
 St. Xavier’s College (Autonomous), Kolkata
 
 
-College/University:
+College :
 St. Xavier's College (Autonomous) , Kolkata
 Affiliated Undeer University of Calcutta
 
